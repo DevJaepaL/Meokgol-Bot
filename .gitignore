@@ -1,0 +1,26 @@
+# Node.js 관련
+node_modules/
+npm-debug.log
+
+# 환경 변수 파일
+.env
+
+# 디렉토리별 설정 파일
+.DS_Store
+
+# 로그 파일
+logs/
+*.log
+
+# 운영체제별 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE 관련 파일
+.idea/
+.vscode/
+
+# 기타
+*.swp
+*.swo
